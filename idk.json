@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer1": "mod:item/aerite"
-  }
+  "model": minecraft:item
 }
